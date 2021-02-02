@@ -1,0 +1,17 @@
+
+# Site settings
+title: Jordan Shivers
+email: shivers at rice dot edu
+description: > # this means to ignore newlines until "baseurl:"
+  Ph.D. Candidate in Chemical and Biomolecular Engineering
+# baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://jordanshivers.github.io" # the base hostname & protocol for your site
+twitter_username: jordanlshivers
+github_username:  jordanshivers
+permalink: /blog/ #/cv/research/:year/:month/:title.html
+gems:
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+theme: minima
