@@ -402,10 +402,10 @@ form {
 /* Utilities
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .u-full-width {
-  width: 80%;
+  width: 100%;
   box-sizing: border-box; }
 .u-max-full-width {
-  max-width: 80%;
+  max-width: 100%;
   box-sizing: border-box; }
 .u-pull-right {
   float: right; }
