@@ -31,7 +31,7 @@
 .container {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 960px;
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
@@ -122,14 +122,13 @@ html {
   font-size: 100%;
  }
 body {
-  font-size: 16px; /* currently ems cause chrome bug misinterpreting rems on body element */
+  font-size: 12pt; /* currently ems cause chrome bug misinterpreting rems on body element */
   font-weight: 400;
   /*font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   /*font-family: -apple-system, ".SFNSText-Regular", "San Francisco", Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;  /*font-family: sans-serif;  1 */
   /*font-family: 'Libre Baskerville',"Georgia", Georgia, serif;*/
 /*  font-family: 'IBM Plex Sans', sans-serif; */
- /*font-family: 'Times New Roman', serif;*/
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: 'Times New Roman', serif;
   color: #000; }
 
 
@@ -210,8 +209,7 @@ input[type="button"] {
   font-size: 12px;
   font-weight: 600;
   /*font-family: "Arial";*/
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-/*  font-family: -apple-system, 'Source Sans Pro', ".SFNSText-Regular", "San Francisco", Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;  /*font-family: sans-serif;  1 */
+  font-family: -apple-system, 'Source Sans Pro', ".SFNSText-Regular", "San Francisco", Roboto, "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;  /*font-family: sans-serif;  1 */
   /*font-family: "TimesNewRoman";*/
   line-height: 38px;
   letter-spacing: .1rem;
