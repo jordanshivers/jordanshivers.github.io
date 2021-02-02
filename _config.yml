@@ -1,2 +1,4 @@
 name: Jordan Shivers
 markdown: kramdown
+
+theme: jekyll-theme-minimal
