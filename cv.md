@@ -1,6 +1,6 @@
-#---
-#layout: page
-#title: CV
-#---
+---
+layout: default
+title: CV
+---
 
-[CV](https://jordanshivers.github.io/cv.pdf)
+[CV (pdf)](/cv.pdf)
