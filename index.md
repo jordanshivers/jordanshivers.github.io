@@ -28,17 +28,6 @@ I use theory and coarse-grained simulations to explore how the unusual nonlinear
 <a href="/gallery/"><img width="500" src="/img/collage.png"></a>
 </div>
 
-<br>
-
-## News
-
-
-* News item 1
-
-* News item 2
-
-* News item 3
-
 
 <hr>
 <br>
