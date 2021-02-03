@@ -8,10 +8,10 @@ permalink: /publications/
 
   
   
-* External lists: 
-    * [Google Scholar](https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en)
-    * [ORCID](https://orcid.org/0000-0002-3884-1708)
-    * [Publons](http://www.researcherid.com/rid/P-4898-2019)
+**External lists**
+* [Google Scholar](https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en)
+* [ORCID](https://orcid.org/0000-0002-3884-1708)
+* [Publons](http://www.researcherid.com/rid/P-4898-2019)
 
 
 **In preparation**
