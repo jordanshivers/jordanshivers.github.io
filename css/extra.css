@@ -1,0 +1,11 @@
+a.logos {
+  color: #333
+}
+
+td a.logos {
+  color: #333
+}
+
+a.logos:hover, a.logos:focus {
+  color: #ddd
+}

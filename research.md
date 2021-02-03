@@ -1,8 +1,9 @@
-#---
-#layout: page
-#title: Research
-#---
+---
+layout: default
+title: Research
+---
 
+# **Research**
 
 * Recent research interests include:
   1. a
@@ -16,7 +17,7 @@
   3. 
   
   
-* Full publication list:[Google Scholar](https://scholar.google.com/)
+* Full publication list: [Google Scholar](https://scholar.google.com/)
 
 
 * Service:
