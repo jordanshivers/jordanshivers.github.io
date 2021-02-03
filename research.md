@@ -50,7 +50,7 @@ The first animation below depicts a simulated network of interconnected elastic 
 </div>
 <br/>
 Associated papers:  
-<b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a></div>
+<b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a>
 <br/>
 <br/>
 
