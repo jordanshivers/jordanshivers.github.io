@@ -28,9 +28,10 @@ I use theory and coarse-grained simulations to explore how the unusual nonlinear
 <a href="/gallery/"><img width="500" src="/img/collage.png"></a>
 </div>
 
+<br/>
 
 <hr>
-<br>
+<br/>
 
 Before Rice, I received a B.S.E. with honors in chemical and biological engineering from Princeton University, with minors in computer science and engineering biology. I wrote my senior thesis on the development of a novel microfluidic device for culture and on-demand immobilization of developing nematodes, under the supervision of [Cliff Brangwynne](https://cbe.princeton.edu/people/clifford-brangwynne).
 
