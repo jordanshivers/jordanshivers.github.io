@@ -14,7 +14,7 @@ title: About me
 <a class="logos" href="https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a> 
 <a class="logos" href="https://orcid.org/0000-0002-3884-1708"> <i class="ai ai-orcid-square ai-3x"></i></a>
 <a class="logos" href="http://www.researcherid.com/rid/P-4898-2019"><i class="ai ai-publons-square ai-3x"></i></a>
-<a class="logos" href="https://shivers.web.rice.edu/cv.pdf"><i class="ai ai-cv-square ai-3x"></i></a>
+<a class="logos" href="/cv.pdf"><i class="ai ai-cv-square ai-3x"></i></a>
 <br>
 
 **email**: [shivers@rice.edu](mailto:shivers@rice.edu)
