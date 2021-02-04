@@ -9,7 +9,7 @@ title: About me
 <link rel="stylesheet" href="/css/academicons-1.9.1/css/academicons.min.css"/>
 <link rel="stylesheet" href="/css/extra.css"/>
 
-<img align="right" style="float:center;padding-left:20px;padding-bottom:20px" width="180" src="/img/profile.jpg">
+<img align="right" style="float:center;margin-left:20px;margin-bottom:20px;border:1px solid #808080" width="180" src="/img/profile.jpg">
 
 <a class="logos" href="https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en"><i class="ai ai-google-scholar-square ai-3x"></i></a> 
 <a class="logos" href="https://orcid.org/0000-0002-3884-1708"> <i class="ai ai-orcid-square ai-3x"></i></a>
