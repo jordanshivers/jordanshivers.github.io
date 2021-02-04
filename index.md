@@ -25,7 +25,7 @@ I use theory and coarse-grained simulations to explore how the unusual nonlinear
 
 
 <div style="text-align: center">
-<a href="/gallery/"><img width="500" src="/img/collage.png" style="border:1px solid #808080"></a>
+<a href="/gallery/"><img width="700" src="/img/collage.png" style="border:1px solid #808080"></a>
 </div>
 
 <br/>
