@@ -24,4 +24,5 @@ permalink: /extras/
 * [Libby](https://libbyapp.com/) + [Houston Public Library](https://houstonlibrary.org/find-it/my-link)/[Harris County Public Library](https://www.hcpl.net/services/card-account)
 * [Lichess](https://lichess.org/)
 * Youtube
-	* [Nautilus Live](https://www.youtube.com/c/EVNautilus)
+	* [Nautilus Live](https://www.youtube.com/c/EVNautilus)	
+	* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
