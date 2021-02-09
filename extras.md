@@ -23,7 +23,7 @@ permalink: /extras/
 *For fun:*  
 * [Libby](https://libbyapp.com/) + [Houston Public Library](https://houstonlibrary.org/find-it/my-link)/[Harris County Public Library](https://www.hcpl.net/services/card-account)
 * [Lichess](https://lichess.org/)
-* Youtube
+* Popular science channels
 	* [BBC Earth](https://www.youtube.com/c/bbcearth)
 	* [Journey to the Microcosmos](https://www.youtube.com/channel/UCBbnbBWJtwsf0jLGUwX5Q3g)
 	* [Monterey Bay Aquarium Research Institute](https://www.youtube.com/channel/UCFXww6CrLAHhyZQCDnJ2g2A)
