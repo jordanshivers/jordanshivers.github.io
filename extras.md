@@ -16,12 +16,13 @@ permalink: /extras/
 * [Inkscape](https://inkscape.org/)  
 * [Blender](https://www.blender.org/)
 
-*Tricky math:*  
+*Math:*  
 * [Mathematica](https://www.wolfram.com/mathematica/) (free for Rice students [via OIT](https://kb.rice.edu/student-software))
 * [MATLAB](https://www.mathworks.com/products/matlab.html) (free for Rice students [via OIT](https://kb.rice.edu/student-software))
 
 *Reading:*
 * [Libby](https://libbyapp.com/) + [Houston Public Library](https://houstonlibrary.org/find-it/my-link)/[Harris County Public Library](https://www.hcpl.net/services/card-account)
+* [NYTimes](https://www.nytimes.com/) (free subscription for Rice students [via Fondren](https://library.rice.edu/nyt))
 * [iMechanica](https://imechanica.org/)
 * [Physics Today](https://physicstoday.scitation.org/)
 * [Quanta Magazine](https://www.quantamagazine.org/)
