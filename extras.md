@@ -8,6 +8,7 @@ permalink: /extras/
 
 *Code:*
 * [Sublime Text](https://www.sublimetext.com/)
+* [Stack Overflow](https://stackoverflow.com/)
 
 *Writing and preparing figures/visualizations:*  
 * [Sublime Text](https://www.sublimetext.com/) + [LaTeXTools](https://latextools.readthedocs.io/)
