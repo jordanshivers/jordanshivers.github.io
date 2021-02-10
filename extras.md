@@ -28,6 +28,7 @@ permalink: /extras/
 * [Physics Today](https://physicstoday.scitation.org/)
 * [Quanta Magazine](https://www.quantamagazine.org/)
 * [Rice History Corner](https://ricehistorycorner.com/)
+* [Princeton - Mudd Manuscript Library Blog](https://blogs.princeton.edu/mudd/)
 
 *Watching:*
 * [Kavli Institute of Theoretical Physics - archive of recorded talks](https://online.kitp.ucsb.edu/online/)
