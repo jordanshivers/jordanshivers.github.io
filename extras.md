@@ -4,7 +4,7 @@ title: etc.
 permalink: /extras/
 ---
 
-# **Useful and/or interesting links**
+# **Interesting/useful links**
 
 *Code:*
 * [Sublime Text](https://www.sublimetext.com/)
