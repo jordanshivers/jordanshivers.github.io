@@ -24,6 +24,7 @@ permalink: /extras/
 * [Libby](https://libbyapp.com/) + [Houston Public Library](https://houstonlibrary.org/find-it/my-link)/[Harris County Public Library](https://www.hcpl.net/services/card-account)
 * [iMechanica](https://imechanica.org/)
 * [Physics Today](https://physicstoday.scitation.org/)
+* [Quanta Magazine](https://www.quantamagazine.org/)
 * [Rice History Corner](https://ricehistorycorner.com/)
 
 *Watching:*
