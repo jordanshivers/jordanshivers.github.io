@@ -31,6 +31,7 @@ permalink: /extras/
 * [Princeton - Mudd Manuscript Library Blog](https://blogs.princeton.edu/mudd/)
 
 *Watching:*
+* [World Wide Physics of Life - upcoming online seminars](https://www.world-wide.org/Physics-of-Life/)
 * [Kavli Institute of Theoretical Physics - archive of recorded talks](https://online.kitp.ucsb.edu/online/)
 * [NYU Physics Seminars](https://www.youtube.com/channel/UC5ECSqmOGQxtckS_inwe7ZA/videos)
 
