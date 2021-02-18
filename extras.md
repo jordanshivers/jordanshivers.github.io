@@ -29,13 +29,16 @@ permalink: /extras/
 * [Quanta Magazine](https://www.quantamagazine.org/)
 * [Rice History Corner](https://ricehistorycorner.com/)
 * [Princeton - Mudd Manuscript Library Blog](https://blogs.princeton.edu/mudd/)
+* [Digital resources of the Royal Society](https://royalsociety.org/collections/digital-resources/)
+	* A highlight: [freely accessible digital scan](https://royalsociety.org/blog/2020/07/micrographia-online/) of Robert Hooke's *Micrographia* 
+
 
 *Watching:*
 * [World Wide Physics of Life - upcoming online seminars](https://www.world-wide.org/Physics-of-Life/)
 * [Kavli Institute of Theoretical Physics - archive of recorded talks](https://online.kitp.ucsb.edu/online/)
 * [NYU Physics Seminars](https://www.youtube.com/channel/UC5ECSqmOGQxtckS_inwe7ZA/videos)
 
-*Fun:*  
+*Fun/other cool things:*  
 * [Lichess](https://lichess.org/)
 * Popular science channels
 	* [BBC Earth](https://www.youtube.com/c/bbcearth)
@@ -43,6 +46,7 @@ permalink: /extras/
 	* [Monterey Bay Aquarium Research Institute](https://www.youtube.com/channel/UCFXww6CrLAHhyZQCDnJ2g2A)
 	* [Nautilus Live](https://www.youtube.com/c/EVNautilus)	
 	* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
+
 
 
 
