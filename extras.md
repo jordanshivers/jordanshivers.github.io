@@ -4,6 +4,8 @@ title: etc.
 permalink: /extras/
 ---
 
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
 # **Interesting/useful links**
 
 *Code:*
@@ -45,7 +47,3 @@ permalink: /extras/
 	* [Monterey Bay Aquarium Research Institute](https://www.youtube.com/channel/UCFXww6CrLAHhyZQCDnJ2g2A)
 	* [Nautilus Live](https://www.youtube.com/c/EVNautilus)	
 	* [PBS Eons](https://www.youtube.com/channel/UCzR-rom72PHN9Zg7RML9EbA)
-
-
-
-
