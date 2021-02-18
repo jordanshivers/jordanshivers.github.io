@@ -30,8 +30,7 @@ permalink: /extras/
 * [Rice History Corner](https://ricehistorycorner.com/)
 * [Princeton - Mudd Manuscript Library Blog](https://blogs.princeton.edu/mudd/)
 * [Digital resources of the Royal Society](https://royalsociety.org/collections/digital-resources/)
-	* A highlight: [freely accessible digital scan](https://royalsociety.org/blog/2020/07/micrographia-online/) of Robert Hooke's *Micrographia* 
-
+	* A highlight: [freely accessible digital scan](http://ttp.royalsociety.org/ttp/ttp.html?id=a9c4863d-db77-42d1-b294-fe66c85958b3&type=book) of Robert Hooke's *Micrographia* 
 
 *Watching:*
 * [World Wide Physics of Life - upcoming online seminars](https://www.world-wide.org/Physics-of-Life/)
