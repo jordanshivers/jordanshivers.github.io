@@ -20,6 +20,10 @@ permalink: /publications/
 
 * Growing length and time scales in strain-stiffening networks
 
+**Submitted**
+
+* Cell-induced confinement effects in soft tissue mechanics
+
 **2020**
 
 * **Compression stiffening of fibrous networks with stiff inclusions**  
