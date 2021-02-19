@@ -4,9 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# **Publications**
 
-  
   
 **External lists**
 * [Google Scholar](https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en)
@@ -14,7 +12,7 @@ permalink: /publications/
 * [Publons](http://www.researcherid.com/rid/P-4898-2019)
 
 
-**In preparation**
+**Currently in preparation**
 
 * Nonlinear Poisson effect in affine semiflexible polymer and fiber networks
 
@@ -23,9 +21,10 @@ permalink: /publications/
 
 **Submitted**
 
-* Cell-induced confinement effects in soft tissue mechanics
+* Cell-induced confinement effects in soft tissue mechanics  
 D Song, **JL Shivers**, AE Patteson, FC MacKintosh, PA Janmey
 
+# **Peer-reviewed publications**
 
 **2020**
 
