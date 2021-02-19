@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Publications
-permalink: /publications/
+title: Papers
+permalink: /papers/
 ---
 
-
+# **Papers**
   
 **External lists**
 * [Google Scholar](https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en)
@@ -24,9 +24,9 @@ permalink: /publications/
 * Cell-induced confinement effects in soft tissue mechanics  
 D Song, **JL Shivers**, AE Patteson, FC MacKintosh, PA Janmey
 
-# **Peer-reviewed publications**
+**Peer-reviewed publications**
 
-**2020**
+*2020*
 
 * **Compression stiffening of fibrous networks with stiff inclusions**  
 **<u>JL Shivers</u>**, J Feng, ASG van Oosten, H Levine, PA Janmey, FC MacKintosh  
@@ -45,7 +45,7 @@ S Arzash, **<u>JL Shivers</u>**, FC MacKintosh
 [[link](https://doi.org/10.1103/PhysRevLett.124.038002), [pdf](/Papers/PhysRevLett.124.038002.pdf), [arXiv](https://arxiv.org/abs/1905.09844)]  
 
 
-**2019**
+*2019*
 
 * **Scaling theory for mechanical critical behavior in fiber networks**  
 **<u>JL Shivers</u>**, S Arzash, A Sharma, FC MacKintosh  
@@ -62,7 +62,7 @@ S Arzash, **<u>JL Shivers</u>**, AJ Licup, A Sharma, FC MacKintosh
 *Soft Matter*, **15**: 1666-1675 (2019)  
 [[link](https://doi.org/10.1039/C8SM02192A), [pdf](/Papers/ShiversSoftMatter2019.pdf), [arXiv](https://arxiv.org/abs/1711.00522)]  
 
-**2017**
+*2017*
 
 * **Microfluidic immobilization and subcellular imaging of developing *Caenorhabditis elegans***  
 **<u>J Shivers</u>**, S Uppaluri, CP Brangwynne  
