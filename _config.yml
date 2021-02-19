@@ -16,7 +16,7 @@ theme: minima
 header_pages:
  - index.md
  - research.md
- - publications.md
+ - papers.md
  - cv.md
  - gallery.md
  - contact.md
