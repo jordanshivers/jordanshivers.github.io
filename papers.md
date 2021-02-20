@@ -6,25 +6,25 @@ permalink: /papers/
 
 # **Papers**
   
-**External lists**
+## **External lists**
 * [Google Scholar](https://scholar.google.com/citations?user=mAHTjjoAAAAJ&hl=en)
 * [ORCID](https://orcid.org/0000-0002-3884-1708)
 * [Publons](http://www.researcherid.com/rid/P-4898-2019)
 
 
-**Currently in preparation**
+## **Currently in preparation**
 
 * Nonlinear Poisson effect in affine semiflexible polymer and fiber networks
 
 * Growing length and time scales in strain-stiffening networks
 
 
-**Submitted**
+## **Submitted**
 
 * Cell-induced confinement effects in soft tissue mechanics  
-D Song, **JL Shivers**, AE Patteson, FC MacKintosh, PA Janmey
+D Song, **JL Shivers**, FC MacKintosh, AE Patteson, PA Janmey
 
-**Peer-reviewed publications**
+## **Peer-reviewed publications**
 
 *2020*
 
