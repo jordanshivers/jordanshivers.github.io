@@ -21,7 +21,7 @@ title: About me
 
 I am a fifth-year Ph.D. candidate in the [Department of Chemical and Biomolecular Engineering](https://chbe.rice.edu/) and [Center for Theoretical Biological Physics](https://ctbp.rice.edu/) at Rice University, where I am fortunate to work with [Fred MacKintosh](https://profiles.rice.edu/faculty/frederick-c-mackintosh). 
 
-I use theory and coarse-grained simulations to explore how the unusual nonlinear viscoelastic properties of bulk **biological materials** are influenced by internal organization, microscopic properties, and applied strain.
+I use theory and coarse-grained simulations to explore how the unusual nonlinear viscoelastic properties of **biological materials** are influenced by internal organization, microscopic properties, and applied strain.
 
 
 <div style="text-align: center">
