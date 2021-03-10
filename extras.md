@@ -6,7 +6,7 @@ permalink: /extras/
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-# **Some helpful links**
+# **Some loosely organized helpful links**
 
 *Software:*
 * [Sublime Text](https://www.sublimetext.com/) + [LaTeXTools](https://latextools.readthedocs.io/)
