@@ -8,6 +8,7 @@ permalink: /extras/
 
 # **Some helpful links**
 
+*Software:*
 * [Sublime Text](https://www.sublimetext.com/) + [LaTeXTools](https://latextools.readthedocs.io/)
 * [Zotero](https://www.zotero.org/)  
 * [NaturalReader](https://www.naturalreaders.com/software.html)  
@@ -22,7 +23,7 @@ permalink: /extras/
 * [Digital resources of the Royal Society](https://royalsociety.org/collections/digital-resources/)
 	* A highlight: [freely accessible digital scan](http://ttp.royalsociety.org/ttp/ttp.html?id=a9c4863d-db77-42d1-b294-fe66c85958b3&type=book) of Robert Hooke's *Micrographia* 
 
-*Watching:*
+*Online talks:*
 * [World Wide Physics of Life - upcoming online seminars](https://www.world-wide.org/Physics-of-Life/)
 * [Kavli Institute of Theoretical Physics - archive of recorded talks](https://online.kitp.ucsb.edu/online/)
 * [NYU Physics Seminars](https://www.youtube.com/channel/UC5ECSqmOGQxtckS_inwe7ZA/videos)
