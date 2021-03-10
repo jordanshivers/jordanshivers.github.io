@@ -6,9 +6,9 @@ permalink: /extras/
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
-# **Some loosely organized helpful links**
+# **Loosely organized helpful links**
 
-*Software:*
+*Useful free software:*
 * [Sublime Text](https://www.sublimetext.com/) + [LaTeXTools](https://latextools.readthedocs.io/)
 * [Zotero](https://www.zotero.org/)  
 * [NaturalReader](https://www.naturalreaders.com/software.html)  
