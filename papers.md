@@ -19,12 +19,13 @@ permalink: /papers/
 * Growing length and time scales in strain-stiffening networks
 
 
-## **Submitted**
-
-* Cell-induced confinement effects in soft tissue mechanics  
-D Song, **JL Shivers**, FC MacKintosh, AE Patteson, PA Janmey
-
 ## **Peer-reviewed publications**
+
+**2021**
+* **Cell-induced confinement effects in soft tissue mechanics**  
+Accepted, *Journal of Applied Physics* (2021)
+D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey
+
 
 **2020**
 
