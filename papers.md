@@ -24,7 +24,7 @@ permalink: /papers/
 **2021**
 * **Cell-induced confinement effects in soft tissue mechanics**  
 D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey  
-*Journal of Applied Physics* (accepted, 2021)  
+*Journal of Applied Physics* (accepted)  
 
 
 **2020**
