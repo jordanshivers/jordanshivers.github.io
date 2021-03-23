@@ -32,7 +32,7 @@ D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey
 * **Compression stiffening of fibrous networks with stiff inclusions**  
 **<u>JL Shivers</u>**, J Feng, ASG van Oosten, H Levine, PA Janmey, FC MacKintosh  
 *Proceedings of the National Academy of Sciences*, **117**: 21037-21044 (2020)  
-[[link](https://doi.org/10.1073/pnas.2003037117), [arXiv](https://arxiv.org/abs/2002.07220)]  
+[[link](https://doi.org/10.1073/pnas.2003037117), [pdf](https://www.pnas.org/content/pnas/117/35/21037.full.pdf), [arXiv](https://arxiv.org/abs/2002.07220)]  
 
 
 * **Finite size effects in critical fiber networks**  
