@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[CV (pdf)](/cv.pdf)
+[CV (link to pdf)](/cv.pdf)
