@@ -49,8 +49,10 @@ The first animation below depicts a simulated network of interconnected elastic 
 <a href="/img/poissongif.gif"><img class="u-max-full-width" src="/img/poissongif.gif" alt="" height="195px" /></a><a href="/img/poisson.png"><img class="u-max-full-width" src="/img/poisson.png" alt=""   style="width:auto;height:auto;max-height:195px"/></a> <br>
 </div>
 <br/>
-Associated papers:  
-<b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a>
+  Associated papers:  
+  1. <b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a>
+  <br>
+  2. D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey. <a href=""><i>J. Appl. Phys.</i>, <b>129</b>: 140901 (2021)</a>
 <br/>
 <br/>
 
