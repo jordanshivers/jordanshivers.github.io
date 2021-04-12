@@ -64,7 +64,7 @@ The first animation below depicts a simulated network of interconnected elastic 
   Associated papers:  
   1. <b><u>Shivers, J.L.</u></b>, Feng, J., Oosten, A. S. G. van, Levine, H., Janmey, P.A., and MacKintosh, F.C. <a href="https://doi.org/10.1073/pnas.2003037117"><i>PNAS</i>, <b>117</b>: 21037-21044 (2020)</a>
   <br>
-  2. D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey. <a href="https://doi.org/10.1063/5.0047829"><i>J. Appl. Phys.</i>, <b>129</b>: 140901 (2021)</a>
+  2. Song, D., **<u>Shivers, J.L.</u>**, MacKintosh, F.C., Patteson, A.E., and Janmey, P.A. <a href="https://doi.org/10.1063/5.0047829"><i>J. Appl. Phys.</i>, <b>129</b>: 140901 (2021)</a>
   <br/>
 <br/>
 
