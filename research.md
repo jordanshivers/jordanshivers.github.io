@@ -50,9 +50,7 @@ The first animation below depicts a simulated network of interconnected elastic 
 </div>
 <br/>
   Associated papers:  
-  1. <b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a>
-  <br>
-  2. D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey. <a href=""><i>J. Appl. Phys.</i>, <b>129</b>: 140901 (2021)</a>
+  <b><u>Shivers, J.L.</u></b>, Arzash, S., and MacKintosh, F.C. <a href="https://doi.org/10.1103/PhysRevLett.124.038002"><i>Phys Rev Lett</i>, <b>124</b>: 038002 (2020)</a>
 <br/>
 <br/>
 
@@ -63,9 +61,11 @@ The first animation below depicts a simulated network of interconnected elastic 
 <a href="/img/fibrin_beads.png"><img class="u-max-full-width" src="/img/fibrin_beads.png" alt=""   style="width:auto;height:auto;max-height:190px"/></a> <a href="/img/rope_initial.png"><img class="u-max-full-width" src="/img/rope_initial.png" alt=""   style="width:auto;height:auto;max-height:200px"/></a> <a href="/img/inclusions.gif"><img class="u-max-full-width" src="/img/inclusions.gif" alt=""  style="width:auto;height:auto;max-height:200px" /></a> <a href="/img/inclusiondata.png"><img class="u-max-full-width" src="/img/inclusiondata.png" alt=""   style="width:auto;height:auto;max-height:200px"/></a></div>
 <br/>
 
-Associated papers:  
-<b><u>Shivers, J.L.</u></b>, Feng, J., Oosten, A. S. G. van, Levine, H., Janmey, P.A., and MacKintosh, F.C. <a href="https://doi.org/10.1073/pnas.2003037117"><i>PNAS</i>, <b>117</b>: 21037-21044 (2020)</a>
-<br/>
+  Associated papers:  
+  1. <b><u>Shivers, J.L.</u></b>, Feng, J., Oosten, A. S. G. van, Levine, H., Janmey, P.A., and MacKintosh, F.C. <a href="https://doi.org/10.1073/pnas.2003037117"><i>PNAS</i>, <b>117</b>: 21037-21044 (2020)</a>
+  <br>
+  2. D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey. <a href=""><i>J. Appl. Phys.</i>, <b>129</b>: 140901 (2021)</a>
+  <br/>
 <br/>
 
 ## **Mechanics of carbon nanotube foams**
