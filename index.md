@@ -19,7 +19,7 @@ title: About me
 
 **email**: [shivers@rice.edu](mailto:shivers@rice.edu)
 
-I am a fifth-year Ph.D. candidate in the [Department of Chemical and Biomolecular Engineering](https://chbe.rice.edu/) and [Center for Theoretical Biological Physics](https://ctbp.rice.edu/) at Rice University, where I am fortunate to work with [Fred MacKintosh](https://profiles.rice.edu/faculty/frederick-c-mackintosh). 
+I am a Ph.D. candidate in the [Department of Chemical and Biomolecular Engineering](https://chbe.rice.edu/) and [Center for Theoretical Biological Physics](https://ctbp.rice.edu/) at Rice University, where I am fortunate to work with [Fred MacKintosh](https://profiles.rice.edu/faculty/frederick-c-mackintosh). 
 
 I use computational methods and soft matter theory to explore how the unusual nonlinear viscoelastic properties of **biological materials** are influenced by internal organization, microscopic properties, and applied strain.
 
