@@ -36,9 +36,7 @@ arxiv:2104.1077
 D Song, **<u>JL Shivers</u>**, FC MacKintosh, AE Patteson, PA Janmey    
 *Journal of Applied Physics*, **129**: 140901 (2021)  
 [[link](https://doi.org/10.1063/5.0047829), [pdf](https://aip.scitation.org/doi/pdf/10.1063/5.0047829)]  
-    > Invited perspective article  
-    > Featured by Journal of Applied Physics  
-    > Highlighted by AIP as a [Scilight](https://aip.scitation.org/doi/10.1063/10.0004780)  
+    > Highlighted as an AIP [Scilight](https://aip.scitation.org/doi/10.1063/10.0004780)  
 
 
 **2020**
