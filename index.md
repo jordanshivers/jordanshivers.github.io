@@ -38,3 +38,5 @@ Before Rice, I received a B.S.E. with Honors in Chemical and Biological Engineer
 I grew up in [Beaumont, Texas](https://en.wikipedia.org/wiki/Beaumont,_Texas).
 
 
+
+
