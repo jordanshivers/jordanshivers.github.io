@@ -21,7 +21,7 @@ permalink: /papers/
 
 ## **Preprints**
 
-* **Shear induced phase transition and critical exponents in 3D fiber networks**  
+* **Shear-induced phase transition and critical exponents in 3D fiber networks**  
 S. Arzash, **<u>JL Shivers</u>**, FC MacKintosh  
 arxiv:2104.1077  
 [[arXiv](https://arxiv.org/abs/2104.10778)]
