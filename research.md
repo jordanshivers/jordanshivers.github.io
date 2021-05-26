@@ -6,11 +6,8 @@ permalink: /research/
 
 # **Research interests**
 
-
-*Click each image/animation to see the full resolution version.*
-
 <p style="text-align: justify">
-I use simulations and theory to explore the viscoelastic behavior of disordered materials, with a focus on biopolymer networks.</p>
+In my graduate work, I've used coarse-grained simulations and ideas from soft matter physics and statistical mechanics to explore aspects of the viscoelastic behavior of disordered materials, with a focus on biopolymer networks.</p>
 
 
 ## **Strain stiffening in biopolymer networks**
