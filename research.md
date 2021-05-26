@@ -10,18 +10,11 @@ permalink: /research/
 *Click each image/animation to see the full resolution version.*
 
 <p style="text-align: justify">
-My work broadly focuses on the nonlinear viscoelasticity of networks of biopolymers like actin and collagen, which mechanically stabilize living cells and tissues. These exhibit rich mechanical responses including strain-stiffening and negative normal stress, and I aim to understand these phenomena using a combination of theory and simple computational models.</p>
+I use simulations and theory to explore the viscoelastic behavior of disordered materials, with a focus on biopolymer networks.</p>
 
 
 ## **Strain stiffening in biopolymer networks**
 
-
-<p style="text-align: justify">
-While biopolymer networks respond softly to very small deformations, they tend to stiffen significantly when subjected to sufficiently large shear or extensile strains. Recent work has shown that, in networks of athermal filaments (i.e. filaments that are sufficiently stiff to justify ignoring thermal fluctuations) like collagen bundles, this stiffening represents a crossover between bending-dominated and stretching-dominated elastic regimes, controlled by an underlying mechanical phase transition (see <a href="http://www.nature.com/doifinder/10.1038/nphys3628">Sharma, A. et al., <i>Nat Phys</i> <b>12</b>, 584–587 (2016)</a>, <a href="http://dx.doi.org/10.1021/acs.jpcb.6b00259">Rens, R. et al., <i>J Phys Chem B</i> <b>120</b>, 5831–5841 (2016)</a>, and <a href="http://dx.doi.org/10.1016/j.bpj.2018.04.043">Jansen, K. A. et al., <i>Biophys J</i> <b>114</b>, 2665–2678 (2018)</a>.</p> 
-<p style="text-align: justify">
-In our work, we have explored how this underlying transition affects various mechanical nonlinearities that show up in strained networks, including the development of a normal stress difference in networks under applied simple shear <a href="https://doi.org/10.1039/C8SM02192A">[1]</a> and the shear response of networks subjected to bulk and uniaxial prestress <a href="https://doi.org/10.1103/PhysRevE.99.042412">[2]</a>. We also developed a scaling theory for the shear-driven stiffening transition <a href="https://doi.org/10.1103/PhysRevLett.122.188003">[3]</a> and explored the associated finite size effects <a href="https://doi.org/10.1039/D0SM00764A">[4]</a>.</p>
-<p style="text-align: justify">
-The first animation below depicts a simulated network of interconnected elastic filaments under applied simple shear. See <a href="https://www.youtube.com/watch?v=ppnie9Pj7xU&feature=emb_logo">this excellent video</a> by the Blair group at Georgetown for analogous confocal imaging of sheared collagen. The second animation shows the projection of the same network onto the plane perpendicular to the direction of applied shear, highlighting the dramatic rearrangement of the network as strain is applied. The last panel shows the stiffness (the tangent modulus, computed as the derivative of shear stress with respect to shear strain) as a function of applied strain for the same network.</p>
 
   <br><br>
   <div style="text-align:center">
