@@ -7,7 +7,7 @@ permalink: /research/
 # **Research interests**
 
 <p style="text-align: justify">
-In my graduate work, I've used coarse-grained simulations and ideas from soft matter physics and statistical mechanics to explore aspects of the viscoelastic behavior of disordered materials. My focus has been on biopolymer networks, which provide mechanical scaffolding for a wide variety of living materials.</p>
+As a graduate student, I've used coarse-grained simulations and ideas from soft matter physics and statistical mechanics to explore the viscoelastic behavior of disordered materials. Primarily, I have focused on biopolymer networks, which provide mechanical scaffolding for a wide variety of living materials.</p>
 
 
 ## **Strain stiffening in biopolymer networks**
