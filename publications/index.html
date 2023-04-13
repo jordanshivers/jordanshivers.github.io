@@ -12,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>publications | Jordan L. Shivers</title>
     <meta name="author" content="Jordan L. Shivers">
-    <meta name="description" content="Papers listed in reversed chronological order.">
+    <meta name="description" content="Papers listed in reverse chronological order.">
 
 
     <!-- Bootstrap & MDB -->
@@ -35,6 +35,11 @@
     <link rel="canonical" href="https://jordanshivers.github.io/publications/">
     
     <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
     
 
   </head>
@@ -80,6 +85,14 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/cv/">cv</a>
               </li>
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
             </ul>
           </div>
         </div>
@@ -101,7 +114,7 @@
 
           <header class="post-header">
             <h1 class="post-title">publications</h1>
-            <p class="post-description">Papers listed in reversed chronological order.</p>
+            <p class="post-description">Papers listed in reverse chronological order.</p>
           </header>
 
           <article>
@@ -145,7 +158,7 @@
         
         
         <div class="periodical">
-          <em>arXiv:2203.04891</em> (2022)
+          <em>arXiv preprint</em> (2022)
         </div>
         <div class="periodical">
           
@@ -345,6 +358,51 @@
           <!-- Hidden abstract block -->
           <div class="abstract hidden">
             <p>In this work, we investigate whether stiffening in compression is a feature of single cells and whether the intracellular polymer networks that comprise the cytoskeleton (all of which stiffen with increasing shear strain) stiffen or soften when subjected to compressive strains. We find that individual cells, such as fibroblasts, stiffen at physiologically relevant compressive strains, but genetic ablation of vimentin diminishes this effect. Further, we show that unlike networks of purified F-actin or microtubules, which soften in compression, vimentin intermediate filament networks stiffen in both compression and extension, and we present a theoretical model to explain this response based on the flexibility of vimentin filaments and their surface charge, which resists volume changes of the network under compression. These results provide a new framework by which to understand the mechanical responses of cells and point to a central role of intermediate filaments in response to compression.</p>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">PhD Thesis</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="shivers_phase_2022" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">Phase Transitions in the Rheology of Biopolymer Networks</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        <em>Jordan L. Shivers</em>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Ph.D. Thesis, Rice University</em> (2022)
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            
+            <a href="https://scholarship.rice.edu/handle/1911/112696" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="/assets/pdf/Shivers_Thesis_2022.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+          
+          <div class="badges">
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Most biological materials are stabilized internally by disordered networks of long, thin protein assemblies known as biopolymers. These networks occupy a negligible fraction of the space inside cells and tissues, yet are largely responsible for their extraordinary mechanical properties and exceptional resilience against unpredictable physiological loads. An essential contributor to this resilience is their highly strain-dependent stiffness; they easily deform to accommodate small strains, yet resist damage by stiffening significantly in response to larger strains. Recent work has suggested that the phenomenon of strain-induced stiffening in stiff or athermal biopolymer networks, like the collagen-rich extracellular matrix, constitutes a phase transition between distinct mechanical regimes, analogous to connectivity-controlled rigidity transitions observed in networks and other amorphous materials. Simulations have shown that this transition is heralded by classic signatures of continuous phase transitions, including power law scaling of relevant observables and a diverging correlation length.
+In this thesis, we develop theoretical and computational models to describe the mechanics and dynamics of disordered elastic networks near the onset of rigidity. We develop a real space renormalization-based scaling theory that establishes relationships between the various critical exponents describing the scaling of the elastic moduli and fluctuations in networks near both the strain-controlled and connectivity-controlled rigidity transitions, which we validate using simulations of coarse-grained elastic networks. We then describe the rheology of fluid-immersed networks near the strain-induced stiffening transition and demonstrate that a coupling between diverging strain fluctuations and time-dependent energy dissipation leads to emergent power law rheology at a critical prestrain. Next, we explore the effects of criticality on a phenomenon in biopolymer networks known as the nonlinear Poisson effect, which describes their tendency to shrink dramatically and strongly align when stretched, a behavior with potentially major consequences for matrix-embedded cells. We show that this effect coincides with an analogous extension-controlled rigidity transition and describe the influence of this transition on network rearrangement and the scaling of the apparent Young’s modulus. We further propose a physical mechanism for the unusual compression-driven stiffening effect observed in tissues. Considering a simplified model tissue consisting of a disordered network with embedded stiff particles, we construct a phase diagram describing a unique regime of compression-driven, tension-dominated mechanical stability that arises in these systems before conventional jamming, which we validate in simulations.</p>
           </div>
         </div>
       </div>
@@ -629,7 +687,7 @@
         <div class="author">
         
 
-        <em>Jordan L. Shivers</em>, Sadjad Arzash, and <a href="https://profiles.rice.edu/faculty/frederick-c-mackintosh" rel="external nofollow noopener" target="_blank">F. C. MacKintosh</a>
+        <em>Jordan L. Shivers</em>, Sadjad Arzash, and <a href="https://profiles.rice.edu/faculty/frederick-c-mackintosh" rel="external nofollow noopener" target="_blank">Fred C. MacKintosh</a>
 </div>
 
         <!-- Journal/Book title and date -->
@@ -816,7 +874,7 @@
         <div class="author">
         
 
-        <em>Jordan L. Shivers</em>, Jingchen Feng, <a href="https://sites.google.com/view/theorysoftmatter/home" rel="external nofollow noopener" target="_blank">Abhinav Sharma</a>, and <a href="https://profiles.rice.edu/faculty/frederick-c-mackintosh" rel="external nofollow noopener" target="_blank">F. C. MacKintosh</a>
+        <em>Jordan L. Shivers</em>, Jingchen Feng, <a href="https://sites.google.com/view/theorysoftmatter/home" rel="external nofollow noopener" target="_blank">Abhinav Sharma</a>, and <a href="https://profiles.rice.edu/faculty/frederick-c-mackintosh" rel="external nofollow noopener" target="_blank">Fred C. MacKintosh</a>
 </div>
 
         <!-- Journal/Book title and date -->

@@ -36,6 +36,11 @@
     
     <!-- Dark Mode -->
     
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
 
   </head>
 
@@ -80,6 +85,14 @@
               <li class="nav-item active">
                 <a class="nav-link" href="/cv/">cv<span class="sr-only">(current)</span></a>
               </li>
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
             </ul>
           </div>
         </div>
@@ -100,7 +113,7 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">cv <a href="/assets/pdf/example_pdf.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
+            <h1 class="post-title">cv <a href="/assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>
 </h1>
             <p class="post-description"></p>
           </header>
