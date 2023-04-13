@@ -14,6 +14,6 @@ cv_pdf: cv.pdf
 	</header>
 
 	<article>
-		<iframe class="cv-display" src="/assets/pdf/cv.pdf#pagemode=none&navpanes=0&toolbar=0" width="100%" height="1000px"></iframe>	
+		<iframe class="cv-display" src="/assets/pdf/cv.pdf" width="100%" height="1000px"></iframe>	
 	</article>
 </div>
