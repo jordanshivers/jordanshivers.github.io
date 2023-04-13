@@ -1,34 +1,28 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"MacKintosh":
+  - firstname: ["Fred", "Fred C.", "F. C.", "F.", "FC"]
+    url: https://profiles.rice.edu/faculty/frederick-c-mackintosh
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Mackintosh":
+  - firstname: ["Fred", "Fred C.", "F. C.", "F.", "FC"]
+    url: https://profiles.rice.edu/faculty/frederick-c-mackintosh
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Janmey":
+  - firstname: ["Paul", "Paul A.", "P. A."]
+    url: https://cdb.med.upenn.edu/people/paul-a-janmey-ph-d/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Sharma":
+  - firstname: ["Abhinav", "A."]
+    url: https://sites.google.com/view/theorysoftmatter/home
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Patteson":
+  - firstname: ["Alison", "Alison E."]
+    url: https://thecollege.syr.edu/people/faculty/patteson-alison/
 
-"Przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Uppaluri":
+  - firstname: ["Sravanti"]
+    url: https://azimpremjiuniversity.edu.in/people/sravanti-uppaluri
 
-"Schrödinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Brangwynne":
+  - firstname: ["Clifford P."]
+    url: https://cbe.princeton.edu/people/clifford-brangwynne
 
-"Lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"Planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
