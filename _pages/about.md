@@ -9,7 +9,7 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: GCIS E145</p>
+    <p>Office: GCIS E145,</p>
     <p>James Franck Institute</p>
     <p><a href="mailto:jshivers@uchicago.edu">jshivers@uchicago.edu</a></p>
 
