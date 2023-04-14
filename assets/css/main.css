@@ -16,7 +16,7 @@
   --global-footer-text-color: #e8e8e8;
   --global-footer-link-color: #ffffff;
   --global-distill-app-color: #828282;
-  --global-divider-color: rgba(0,0,0,.1);
+  --global-divider-color: rgba(0,0,0,.4);
   --global-card-bg-color: #ffffff;
 }
 :root .fa-sun {
