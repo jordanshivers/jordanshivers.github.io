@@ -13,6 +13,6 @@ cv_pdf: cv.pdf
 	</header>
 
 	<article>
-		<iframe src="/assets/pdfjs/web/viewer.html?file=/assets/pdf/cv.pdf" width="100%" height="1000px"></iframe>	
+		<iframe src="/assets/pdfjs/web/viewer.html?file=/assets/pdf/cv.pdf#toolbar=0&navpanes=0&pagemode=none" width="100%" height="1000px"></iframe>	
 	</article>
 </div>
