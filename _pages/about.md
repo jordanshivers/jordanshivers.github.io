@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: profile.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Office: GCIS E145,</p>
     <p>James Franck Institute</p>

@@ -112,12 +112,14 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  width: 40%;
 
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 0.9rem;
+    text-align: center;
 
     p {
       display: inline-block;
