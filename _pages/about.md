@@ -9,9 +9,6 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Office: GCIS E145,</p>
-    <p>James Franck Institute</p>
-    <p><a href="mailto:jshivers@uchicago.edu">jshivers@uchicago.edu</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
