@@ -53,3 +53,19 @@
 "Koenderink":
   - firstname: ["Gijsje H."]
     url: https://www.tudelft.nl/en/faculty-of-applied-sciences/about-faculty/departments/bionanoscience/research/research-labs/koenderink-lab
+
+"Vitelli":
+  - firstname: ["Vincenzo"]
+    url: https://home.uchicago.edu/~vitelli/
+
+"Bryant":
+  - firstname: ["Zev"]
+    url: https://bioengineering.stanford.edu/people/zev-bryant
+
+"Dinner":
+  - firstname: ["Aaron R."]
+    url: https://chemistry.uchicago.edu/faculty/aaron-dinner
+
+"Gardel":
+  - firstname: ["Margaret"]
+    url: https://physics.uchicago.edu/people/profile/margaret-gardel/
