@@ -542,6 +542,9 @@ footer.sticky-bottom {
   min-width: 80px;
   max-width: 200px;
 }
+.publications ol.bibliography li .preview img {
+  border: 2px solid rgb(42, 42, 42);
+}
 .publications ol.bibliography li .abbr {
   height: 2rem;
   margin-bottom: 0.5rem;
