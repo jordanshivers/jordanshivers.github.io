@@ -571,6 +571,10 @@ footer.sticky-bottom {
         width: 100%;
         min-width: 80px;
         max-width: 200px;
+
+        img {
+          border: 2px solid rgb(42, 42, 42);
+        }
       }
 
       .abbr {
