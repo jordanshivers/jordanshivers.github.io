@@ -39,8 +39,8 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
-  --global-theme-color: #2698BA;
-  --global-hover-color: #2698BA;
+  --global-theme-color: #7bcce4;
+  --global-hover-color: #7bcce4;
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #1C1C1D;
   --global-footer-link-color: #000000;
@@ -543,7 +543,7 @@ footer.sticky-bottom {
   max-width: 200px;
 }
 .publications ol.bibliography li .preview img {
-  border: 1px solid rgb(40, 40, 40);
+  border: 1px solid var(--global-text-color);
 }
 .publications ol.bibliography li .abbr {
   height: 2rem;
