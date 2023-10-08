@@ -6,18 +6,18 @@
  * Themes
  ******************************************************************************/
 :root {
-  --global-bg-color: #ffffff;
-  --global-code-bg-color: rgba(181, 9, 172, 0.05);
-  --global-text-color: #000000;
-  --global-text-color-light: #828282;
-  --global-theme-color: #116dbd;
-  --global-hover-color: #116dbd;
-  --global-footer-bg-color: #1C1C1D;
-  --global-footer-text-color: #e8e8e8;
-  --global-footer-link-color: #ffffff;
-  --global-distill-app-color: #828282;
+  --global-bg-color: #fbf8ee;
+  --global-code-bg-color: rgba(86, 55, 154, 0.05);
+  --global-text-color: #0f0e0e;
+  --global-text-color-light: #7d7b75;
+  --global-theme-color: #4186c2;
+  --global-hover-color: #4186c2;
+  --global-footer-bg-color: #211f1e;
+  --global-footer-text-color: #bcb9ad;
+  --global-footer-link-color: #fbf8ee;
+  --global-distill-app-color: #7d7b75;
   --global-divider-color: rgba(0,0,0,.4);
-  --global-card-bg-color: #ffffff;
+  --global-card-bg-color: #fbf8ee;
 }
 :root .fa-sun {
   display: none;
@@ -35,18 +35,18 @@
 }
 
 html[data-theme=dark] {
-  --global-bg-color: #1C1C1D;
+  --global-bg-color: #211f1e;
   --global-code-bg-color: #2c3237;
-  --global-text-color: #e8e8e8;
-  --global-text-color-light: #e8e8e8;
-  --global-theme-color: #7bcce4;
-  --global-hover-color: #7bcce4;
-  --global-footer-bg-color: #e8e8e8;
-  --global-footer-text-color: #1C1C1D;
-  --global-footer-link-color: #000000;
-  --global-distill-app-color: #e8e8e8;
+  --global-text-color: #bcb9ad;
+  --global-text-color-light: #bcb9ad;
+  --global-theme-color: #38aca3;
+  --global-hover-color: #38aca3;
+  --global-footer-bg-color: #bcb9ad;
+  --global-footer-text-color: #211f1e;
+  --global-footer-link-color: #0f0e0e;
+  --global-distill-app-color: #bcb9ad;
   --global-divider-color: #424246;
-  --global-card-bg-color: #212529;
+  --global-card-bg-color: #252422;
 }
 html[data-theme=dark] .fa-sun {
   padding-left: 10px;
@@ -89,6 +89,7 @@ body.sticky-bottom-footer {
 
 .profile img {
   width: 100%;
+  border: 1px solid var(--global-text-color);
 }
 
 /******************************************************************************
@@ -459,10 +460,10 @@ footer.sticky-bottom {
   color: var(--global-text-color);
 }
 .pagination .page-item .page-link:hover {
-  color: #000000;
+  color: #0f0e0e;
 }
 .pagination .page-item.active .page-link {
-  color: #ffffff;
+  color: #fbf8ee;
   background-color: var(--global-theme-color);
 }
 .pagination .page-item.active .page-link:hover {
@@ -578,6 +579,7 @@ footer.sticky-bottom {
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
   font-style: normal;
+  font-weight: bolder;
 }
 .publications ol.bibliography li .author > span.more-authors {
   color: var(--global-text-color-light);
@@ -606,7 +608,7 @@ footer.sticky-bottom {
 }
 .publications ol.bibliography li .badges span {
   display: inline-block;
-  color: #000000;
+  color: #0f0e0e;
   height: 100%;
   padding-right: 0.5rem;
   vertical-align: middle;
