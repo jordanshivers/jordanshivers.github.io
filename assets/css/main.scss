@@ -3,6 +3,8 @@
 ---
 @charset "utf-8";
 
+$base-font-family: "PT Serif", serif;
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
@@ -13,3 +15,4 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+

@@ -608,10 +608,11 @@ footer.sticky-bottom {
 
       .author {
         a {
-          border-bottom: 1px dashed var(--global-theme-color);
+          // border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
-            border-bottom-style: solid;
+            border-bottom: 1px dashed var(--global-theme-color);
+            color: var(--global-theme-color-light);
             text-decoration: none;
           }
         }
@@ -619,7 +620,7 @@ footer.sticky-bottom {
         >em {
           border-bottom: 1px solid;
           font-style: normal;
-          font-weight: bolder;
+          font-weight: bold;
         }
 
         >span.more-authors {
