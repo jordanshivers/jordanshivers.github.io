@@ -12,7 +12,7 @@
   --global-text-color-light: #7d7b75;
   --global-theme-color: #205b9e;
   --global-theme-color-light: #3f82bd;
-  --global-hover-color: #205b9e;
+  --global-hover-color: #538cbe;
   --global-footer-bg-color: #211f1e;
   --global-footer-text-color: #bcb9ad;
   --global-footer-link-color: #fbf8ee;
@@ -40,7 +40,7 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #bcb9ad;
   --global-text-color-light: #bcb9ad;
-  --global-theme-color: #38aca3;
+  --global-theme-color: #258880;
   --global-hover-color: #38aca3;
   --global-footer-bg-color: #bcb9ad;
   --global-footer-text-color: #211f1e;
@@ -135,7 +135,7 @@ table.table a {
 }
 a:hover,
 table.table a:hover {
-  color: var(--global-theme-color);
+  color: var(--global-theme-color-light);
   text-decoration: underline;
 }
 a:hover:after :not(.nav-item.dropdown),
@@ -545,7 +545,7 @@ footer.sticky-bottom {
   max-width: 200px;
 }
 .publications ol.bibliography li .preview img {
-  border: 1px solid var(--global-text-color);
+  border: 1px solid var(--global-divider-color);
 }
 .publications ol.bibliography li .abbr {
   height: 2rem;
@@ -571,9 +571,8 @@ footer.sticky-bottom {
   font-weight: bolder;
 }
 .publications ol.bibliography li .author a:hover {
-  border-bottom: 1px dashed var(--global-theme-color);
-  color: var(--global-theme-color-light);
-  text-decoration: none;
+  color: var(--global-hover-color);
+  text-decoration: underline;
 }
 .publications ol.bibliography li .author > em {
   border-bottom: 1px solid;
