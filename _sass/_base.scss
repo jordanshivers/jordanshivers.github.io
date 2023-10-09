@@ -40,7 +40,7 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-theme-color-light);
     text-decoration: underline;
   }
 
@@ -573,7 +573,7 @@ footer.sticky-bottom {
         max-width: 200px;
 
         img {
-          border: 1px solid var(--global-text-color);
+          border: 1px solid var(--global-divider-color);
         }
       }
 
@@ -611,9 +611,9 @@ footer.sticky-bottom {
           // border-bottom: 1px dashed var(--global-theme-color);
 
           &:hover {
-            border-bottom: 1px dashed var(--global-theme-color);
-            color: var(--global-theme-color-light);
-            text-decoration: none;
+            // border-bottom: 1px dashed var(--global-hover-color);
+            color: var(--global-hover-color);
+            text-decoration: underline;
           }
         }
 
