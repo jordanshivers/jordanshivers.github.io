@@ -40,7 +40,7 @@ table.table a {
   color: var(--global-theme-color);
 
   &:hover {
-    color: var(--global-theme-color-light);
+    color: var(--global-hover-color);
     text-decoration: underline;
   }
 
