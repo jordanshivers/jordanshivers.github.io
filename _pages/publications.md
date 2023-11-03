@@ -13,7 +13,7 @@ via <a href="https://scholar.google.com/citations?user=mAHTjjoAAAAJ"><b>Google S
 <br>
 via <a href="https://orcid.org/0000-0002-3884-1708"><b>ORCID</b></a> 
 <br>
-via <a href="https://jordanshivers.github.io/assets/pdf/cv.pdf"><b>my CV</b></a> <br>
+via <a href="/cv"><b>my CV</b></a> <br>
 
 
 <div class="publications">
