@@ -36,7 +36,7 @@ via <a href="/cv"><b>my CV</b></a> <br>
 </div>
 <br>
 
-<h3><b>Dissertations</b></h3>
+<h3><b>Dissertation</b></h3>
 <div class="publications">
 {%- for y in page.diss_years %}
   <h2 class="year">{{y}}</h2>
