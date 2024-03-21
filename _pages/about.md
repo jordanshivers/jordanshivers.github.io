@@ -20,4 +20,4 @@ I am a [Schmidt AI in Science Postdoctoral Fellow](https://www.schmidtfutures.co
 
 I received a Ph.D. in Chemical and Biomolecular Engineering from Rice University in 2022, under the supervision of [Fred MacKintosh](https://profiles.rice.edu/faculty/frederick-c-mackintosh), where I used theoretical and computational tools from soft matter and statistical physics to understand and predict the behavior of complex biological materials. 
 
-In 2016, I received a B.S.E. with honors in Chemical and Biological Engineering from Princeton University, where I worked with [Cliff Brangwynne](https://cbe.princeton.edu/people/clifford-brangwynne) to develop an experimental tool for characterizing the soft matter physics of membraneless organelles in the microorganism *C. elegans*.
+In 2016, I received a B.S.E. with honors in Chemical and Biological Engineering from Princeton University, where I worked with [Cliff Brangwynne](https://cbe.princeton.edu/people/clifford-brangwynne) to develop an experimental tool for characterizing the soft matter physics of membraneless organelles in the roundworm *C. elegans*.
